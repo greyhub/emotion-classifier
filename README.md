@@ -1,6 +1,6 @@
 # EmotionClassifier
 
-Face Emotion Recognition / CNN - 65%
+Facial Emotion Recognition / CNN - 65%
 
 **Data:**
   - Fer2013 - Kaggle.com
